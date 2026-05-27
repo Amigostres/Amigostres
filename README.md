@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I am a passionate Web Software Developer, I specialize in creating responsive and user-friendly interfaces.
+I am a passionate Web Software Developer. I specialize in creating responsive and user-friendly interfaces.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [josemanuel21302@gmail.com](mailto:josemanuel21302@gmail.com)
-* 🧠  I'm learning OpenGL for 3d renering
+* 🧠  I'm learning OpenGL for 2d and 3d rendering
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I excel in a collaborative team environment. My skills lies in making sure my team stays intact and productive.
 
