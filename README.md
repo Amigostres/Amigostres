@@ -8,7 +8,7 @@ I am a passionate Web Software Developer, I specialize in creating responsive an
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [josemanuel21302@gmail.com](mailto:josemanuel21302@gmail.com)
-* 🧠  I'm learning ASP.net and react-native
+* 🧠  I'm learning OpenGL for 3d renering
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I excel in a collaborative team environment. My skills lies in making sure my team stays intact and productive.
 
